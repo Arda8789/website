@@ -1,6 +1,7 @@
-# website
+# Fortify — Yazılım Çözümleri
 
-Basit HTML/CSS/JS ile başlayan, Railway üzerinde GitHub'dan sürekli dağıtımla yayınlanan site.
+Fortify'ın tanıtım sitesi. Statik HTML/CSS/JS ile hazırlandı, Railway üzerinde
+GitHub'dan sürekli dağıtımla yayınlanıyor.
 
 ## Yerel çalıştırma
 
